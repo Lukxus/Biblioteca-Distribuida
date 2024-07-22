@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.portifolio.biblioteca</groupId>
-	<artifactId>biblitoeca</artifactId>
+	<artifactId>biblioteca</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>biblitoeca</name>
 	<description>Sistema distribuído de biblioteca</description>
